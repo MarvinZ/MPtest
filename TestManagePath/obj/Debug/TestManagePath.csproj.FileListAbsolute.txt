@@ -1,0 +1,20 @@
+c:\users\mgonzalez\documents\visual studio 2013\Projects\TestManagePath\TestManagePath\bin\Debug\TestManagePath.exe.config
+c:\users\mgonzalez\documents\visual studio 2013\Projects\TestManagePath\TestManagePath\bin\Debug\TestManagePath.exe
+c:\users\mgonzalez\documents\visual studio 2013\Projects\TestManagePath\TestManagePath\bin\Debug\TestManagePath.pdb
+c:\users\mgonzalez\documents\visual studio 2013\Projects\TestManagePath\TestManagePath\obj\Debug\TestManagePath.csprojResolveAssemblyReference.cache
+c:\users\mgonzalez\documents\visual studio 2013\Projects\TestManagePath\TestManagePath\obj\Debug\TestManagePath.Form1.resources
+c:\users\mgonzalez\documents\visual studio 2013\Projects\TestManagePath\TestManagePath\obj\Debug\TestManagePath.Properties.Resources.resources
+c:\users\mgonzalez\documents\visual studio 2013\Projects\TestManagePath\TestManagePath\obj\Debug\TestManagePath.csproj.GenerateResource.Cache
+c:\users\mgonzalez\documents\visual studio 2013\Projects\TestManagePath\TestManagePath\obj\Debug\TestManagePath.exe
+c:\users\mgonzalez\documents\visual studio 2013\Projects\TestManagePath\TestManagePath\obj\Debug\TestManagePath.pdb
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\TestManagePath\TestManagePath\bin\Debug\TestManagePath.exe
+C:\Users\User\Documents\TestManagePath\TestManagePath\bin\Debug\TestManagePath.exe.config
+C:\Users\User\Documents\TestManagePath\TestManagePath\bin\Debug\TestManagePath.exe
+C:\Users\User\Documents\TestManagePath\TestManagePath\bin\Debug\TestManagePath.pdb
+C:\Users\User\Documents\TestManagePath\TestManagePath\obj\Debug\TestManagePath.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\TestManagePath\TestManagePath\obj\Debug\TestManagePath.Form1.resources
+C:\Users\User\Documents\TestManagePath\TestManagePath\obj\Debug\TestManagePath.Properties.Resources.resources
+C:\Users\User\Documents\TestManagePath\TestManagePath\obj\Debug\TestManagePath.csproj.GenerateResource.Cache
+C:\Users\User\Documents\TestManagePath\TestManagePath\obj\Debug\TestManagePath.exe
+C:\Users\User\Documents\TestManagePath\TestManagePath\obj\Debug\TestManagePath.pdb
+C:\Users\User\Documents\TestManagePath\TestManagePath\obj\Debug\TestManagePath.csproj.CoreCompileInputs.cache
